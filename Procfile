@@ -1,1 +1,2 @@
-web: python3 manage.py runserver 0.0.0.0:5000
+release: pytest test_manage.py
+web: python manage.py runserver 0.0.0.0:5000

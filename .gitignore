@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+venv
+db.sqlite3
+*.cfg
+PyWhatKit_DB.txt
+bin
+lib
+bot.py
+sendMessage.py
+.idea
